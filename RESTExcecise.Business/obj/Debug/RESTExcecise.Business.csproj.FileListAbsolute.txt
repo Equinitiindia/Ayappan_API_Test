@@ -1,0 +1,11 @@
+D:\Ayyappan Interview\RESTSampleProject\RESTExcecise.Business\bin\Debug\RESTExcecise.Business.dll
+D:\Ayyappan Interview\RESTSampleProject\RESTExcecise.Business\bin\Debug\RESTExcecise.Business.pdb
+D:\Ayyappan Interview\RESTSampleProject\RESTExcecise.Business\bin\Debug\RESTExcercise.Contracts.dll
+D:\Ayyappan Interview\RESTSampleProject\RESTExcecise.Business\bin\Debug\RESTExcercise.Repository.dll
+D:\Ayyappan Interview\RESTSampleProject\RESTExcecise.Business\bin\Debug\Newtonsoft.Json.dll
+D:\Ayyappan Interview\RESTSampleProject\RESTExcecise.Business\bin\Debug\RESTExcercise.Contracts.pdb
+D:\Ayyappan Interview\RESTSampleProject\RESTExcecise.Business\bin\Debug\RESTExcercise.Repository.pdb
+D:\Ayyappan Interview\RESTSampleProject\RESTExcecise.Business\bin\Debug\Newtonsoft.Json.xml
+D:\Ayyappan Interview\RESTSampleProject\RESTExcecise.Business\obj\Debug\RESTExcecise.Business.csprojResolveAssemblyReference.cache
+D:\Ayyappan Interview\RESTSampleProject\RESTExcecise.Business\obj\Debug\RESTExcecise.Business.dll
+D:\Ayyappan Interview\RESTSampleProject\RESTExcecise.Business\obj\Debug\RESTExcecise.Business.pdb

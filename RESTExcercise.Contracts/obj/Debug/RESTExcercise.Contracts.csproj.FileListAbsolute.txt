@@ -1,0 +1,4 @@
+D:\Ayyappan Interview\RESTSampleProject\RESTExcercise.Contracts\bin\Debug\RESTExcercise.Contracts.dll
+D:\Ayyappan Interview\RESTSampleProject\RESTExcercise.Contracts\bin\Debug\RESTExcercise.Contracts.pdb
+D:\Ayyappan Interview\RESTSampleProject\RESTExcercise.Contracts\obj\Debug\RESTExcercise.Contracts.dll
+D:\Ayyappan Interview\RESTSampleProject\RESTExcercise.Contracts\obj\Debug\RESTExcercise.Contracts.pdb
